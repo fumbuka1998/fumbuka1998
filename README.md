@@ -1,18 +1,18 @@
 [![MasterHead](https://cdn.dribbble.com/users/1732368/screenshots/16603546/media/3b019fe976c25c2aeac678f430b69dcc.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fumbuka Matalu Limbu</h1>
-<h3 align="center">A passionate software developer laravel based</h3>
+<h3 align="center">A passionate software developer php/laravel & codeigniter</h3>
 <img style="width:200px" src='https://media.licdn.com/dms/image/C4D03AQH7URy4G133WQ/profile-displayphoto-shrink_800_800/0/1660230903860?e=2147483647&v=beta&t=V_duOETuVtC_sg8FaOJVr6wj53VZaF9R3CysDLaxMgE'/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fumbuka1998&label=Profile%20views&color=0e75b6&style=flat" alt="fumbuka1998" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fumbuka1998" alt="fumbuka1998" /></a> </p>
 
-- 🔭 I’m currently working on **electronic project maneger(epm)**
+- 🔭 I’m currently working on **electronic project maneger(epm) and Ruzuku**
 
 - 🌱 I’m currently learning **reactjs etc**
 
 - 👯 I’m looking to collaborate on **web projects**
 
-- 🤝 I’m looking for help with **react native**
+- 🤝 I’m looking for help with **jquery and ajax**
 
 - 💬 Ask me about **laravel,codeigniter,bootstrap,etc**
 
