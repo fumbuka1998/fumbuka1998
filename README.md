@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fumbuka1998" alt="fumbuka1998" /></a> </p>
 
-- 🔭 I’m currently working on **electronic project maneger(epm) and Ruzuku**
+- 🔭 I’m currently working on **Academic Management System(system to generate academic reports for students)**
 
-- 🌱 I’m currently learning **reactjs etc**
+- 🌱 I’m currently learning **flutter for mobile development etc**
 
 - 👯 I’m looking to collaborate on **web projects**
 
